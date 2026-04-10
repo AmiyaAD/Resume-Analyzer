@@ -80,4 +80,4 @@ Upload a resume and type job keywords
 Chatbot will return ATS score, corrections, and recruiter-friendly suggestions
 
 
-<img width="545" height="263" alt="image" src="https://github.com/user-attachments/assets/072cfe14-a495-45a7-b899-44f14337d5d2" />
+
