@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+python-multipart
+langchain
+langgraph
+pdfplumber
+python-docx
